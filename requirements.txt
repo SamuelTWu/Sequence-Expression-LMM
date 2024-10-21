@@ -1,9 +1,8 @@
-pandas
-accelerate>=0.26.0
-scikit-learn
-matplotlib
-datasets
-transformers
-torch
-morfessor
-einops
+accelerate==1.0.1
+scikit-learn==1.5.2
+datasets==3.0.1
+transformers==4.29.2
+torch==1.13.1
+morfessor==2.0.6
+einops==0.8.0
+numpy==1.25.2
