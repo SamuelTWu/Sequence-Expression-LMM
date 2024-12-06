@@ -112,7 +112,7 @@ This is compared to DNABERT2 in green, which outperforms both models and shows a
 
 1. Clone this repository:
 
-       git clone https://github.com/your-username/your-repo.git
+       git clone https://github.com/SamuelTWu/Sequence-Expression-LMM.git
 
 2. Install the required dependencies:
 
